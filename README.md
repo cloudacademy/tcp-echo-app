@@ -23,7 +23,7 @@ docker pull cloudacademydevops/tcpapp:v1
 
 Use the following command to launch the TCP echoing application within Docker:
 ```
-docker run --name tcpapp --port 9091:9091 --detach cloudacademydevops/tcpapp:v1
+docker run --name tcpapp -p 9091:9091 --detach cloudacademydevops/tcpapp:v1
 ```
 
 ## Kubernetes
