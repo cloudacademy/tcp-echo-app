@@ -1,5 +1,5 @@
-![Build Status](https://github.com/cloudacademy/tcpechoapp/actions/workflows/go.yml/badge.svg) 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/cloudacademy/tcpechoapp)
+![Build Status](https://github.com/cloudacademy/tcp-echo-app/actions/workflows/go.yml/badge.svg)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/cloudacademy/tcp-echo-app)
 
 # TCP Echo App
 A simple TCP echoing application.
